@@ -1,4 +1,5 @@
-//3.2
+//3.2 : création de la classe Price
+
 public class Price {
 	String name;
 	int priceItems;

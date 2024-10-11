@@ -2,7 +2,7 @@ import java.util.ArrayList;
 import java.util.Scanner;
 import java.awt.Desktop;
 import java.io.*;
-//3.1
+//3.1 : voir les commentaires : écriture dans un fichier(l.79) et ouverture du fichier(l.92)
 
 public class Resto {
 	
