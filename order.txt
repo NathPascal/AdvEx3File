@@ -1,0 +1,18 @@
+**** Résumé de la commande 1 ****
+Soupe (5€)
+Poulet (10€)
+Légumes (2€)
+Vin (12€)
+Aucun (0€)
+
+total: 29
+
+**** Résumé de la commande 2 ****
+Salade (5€)
+Boeuf (10€)
+Frites (3€)
+Eau plate (2€)
+Mousse au chocolat (5€)
+
+total: 25
+
